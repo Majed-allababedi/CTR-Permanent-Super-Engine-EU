@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "id": "permanent-super-engine-eu",
+  "name": "Permanent Super Engine (EU)",
+  "version": "1.0.1",
+  "author": "Majed-allababedi",
+  "description": "Original Super Engine automatically and permanently for Player 1 only. EU 01.21; single local player; offline only.",
+  "requiresCapabilities": [
+    "xml-patches",
+    "code-signatures"
+  ],
+  "compatibility": {
+    "online": "offline-only",
+    "eboot_sha256": [
+      "39d716b70a299b2546bd39996c8592f9375d3f18f9bb8bf11f9139e9af1eb3f5"
+    ]
+  },
+  "operations": [],
+  "patches": [
+    "patches/PermanentSuperEngineEU.xml"
+  ],
+  "files": [
+    {
+      "file": "octr-mod.required",
+      "sha256": "2d5586c93e82ea2dbaaf8ddd5fc63068a0399479ef9824fb49c477b62a4ccc26",
+      "bytes": 19
+    },
+    {
+      "file": "patches/PermanentSuperEngineEU.xml",
+      "sha256": "71d280f7cf79fb88945e185c43917b39cf7cbfcbe1ad2cc76b2813f9a03a50b0",
+      "bytes": 2779
+    },
+    {
+      "file": "README.md",
+      "sha256": "dd706d4e21c6b21c26d9fd431002764af29be4cc9332898ebadcb7a53ef370a0",
+      "bytes": 2389
+    }
+  ]
+}
