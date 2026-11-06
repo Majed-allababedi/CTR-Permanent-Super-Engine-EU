@@ -18,6 +18,20 @@ Turn **Online off** in the launcher before using this mod. This restriction is i
 - [SHA-256 checksum](https://github.com/Majed-allababedi/CTR-Permanent-Super-Engine-EU/releases/download/v1.0.1/SHA256SUMS.txt)
 - [Release page](https://github.com/Majed-allababedi/CTR-Permanent-Super-Engine-EU/releases/tag/v1.0.1)
 
+## Screenshots
+
+### Race start
+
+Original Super Engine item visible at the start of the race.
+
+![Super Engine item at the race start](screenshots/01-race-start.png)
+
+### During the race
+
+Boost effects visible during lap 3 while a TNT item is held. These screenshots illustrate gameplay; they do not independently prove fall recovery.
+
+![Boost effects during the race](screenshots/02-boost-during-race.png)
+
 ## Requirements
 
 - Your own EU game installation: **CUSA14876**, update **01.21**.
